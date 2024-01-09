@@ -117,3 +117,4 @@ Restart the Splunk Heavy Forwarder: After making any configuration changes, rest
 ```
 
 These steps should help you set up the Splunk Heavy Forwarder on Linux. Make sure to refer to the Splunk documentation for any specific requirements or additional configuration steps related to your environment.
+![splunk-white-black-bg](https://github.com/PracticePrivacy/Splunk-Installation-/assets/156040138/c1c24e3f-b01d-47af-9cbc-954af1de160f)
