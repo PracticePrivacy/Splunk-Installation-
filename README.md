@@ -1,7 +1,7 @@
 # Splunk-Installation-
 Instructions for installing Splunk on an Air Gapped System (No internet)
 
-# ![Splunk](![splunk-white-black-bg](https://github.com/PracticePrivacy/Splunk-Installation-/assets/156040138/c1c24e3f-b01d-47af-9cbc-954af1de160f)) 
+# ![Splunk](https://github.com/PracticePrivacy/Splunk-Installation-/assets/156040138/c1c24e3f-b01d-47af-9cbc-954af1de160f) 
 ## Installing a Splunk Server
 
 **To set up Splunk on Linux, you can follow these steps:**
